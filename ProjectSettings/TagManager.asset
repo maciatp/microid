@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PowerUp
+  - Collectable
+  - Bullet
+  - FX
+  - Scenario
+  - Door
+  - Ship
+  - BulletCharged
+  - Fuel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Collectables
+  - PowerUps
+  - Enemies
+  - Bullets
+  - FX
+  - Scenario
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3807737561
+    locked: 0
+  - name: Middleground
+    uniqueID: 3589656583
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1033670319
+    locked: 0
+  - name: Collectable
+    uniqueID: 788656617
+    locked: 0
+  - name: PowerUps
+    uniqueID: 3403219287
+    locked: 0
+  - name: Enemies
+    uniqueID: 335643809
+    locked: 0
+  - name: Bullets
+    uniqueID: 3706768693
+    locked: 0
+  - name: FX
+    uniqueID: 3510396957
+    locked: 0
